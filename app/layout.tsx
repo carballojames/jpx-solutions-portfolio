@@ -18,9 +18,9 @@ export const metadata: Metadata = {
     url: 'https://jpxsolution.tech',
   },
   icons: {
-    icon: '/3.1.png',
-    shortcut: '/3.1.png',
-    apple: '/3.1.png',
+    icon: '/3.1.svg',
+    shortcut: '/3.1.svg',
+    apple: '/3.1.svg',
   },
 }
 
