@@ -78,7 +78,7 @@ export default function PortfolioBook() {
 
       <header className="site-header">
         <a className="wordmark" href="#about">
-          JPX<span className="ml-2">Solutions.</span>
+          JPX Solutions.
         </a>
 
         <nav className="desktop-nav" aria-label="Primary navigation">
