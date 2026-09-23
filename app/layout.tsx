@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'James Paul U. Carballo — Full-Stack Developer',
   description: 'A digital résumé and selected work of James Paul U. Carballo, a full-stack developer based in Davao City, Philippines.',
   generator: 'v0.app',
-  metadataBase: new URL('https://jamescarballo.dev'),
+  metadataBase: new URL('https://jpxsolution.tech'),
   alternates: {
     canonical: '/',
   },
@@ -15,24 +15,12 @@ export const metadata: Metadata = {
     description: 'Modern web applications, business systems, and digital experiences focused on usability and maintainability.',
     type: 'website',
     locale: 'en_PH',
-    url: 'https://jamescarballo.dev',
+    url: 'https://jpxsolution.tech',
   },
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/3.1.png',
+    shortcut: '/3.1.png',
+    apple: '/3.1.png',
   },
 }
 
